@@ -1,4 +1,10 @@
-# nucleus
+nucleus
+=======
+This repository includes code and applications that can be generate random, normally-distributed laboratory data and feed it into a data science platform for use in creating business intelligence and advanced analytic applications.
+
+Instructions
+------------
+
 - Launch [baikal-devenv](https://github.com/ComputationalHealth/baikal-devenv) through docker-compose (tested against tag v2.6.0.3)
 ```shell
 git clone git@github.com:ComputationalHealth/baikal-devenv.git
